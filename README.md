@@ -1,5 +1,5 @@
 # Introduction
-This reposiory contains the two assignments and the project work done for the Natural Language Processing course.
+This reposiory contains two assignments and the project work done for the Natural Language Processing course.
 It is dividen in three sections: Assignment 1 (POS), Assignment 2 (QA), Project Work in Human Value Detection. 
 
 # Assignment 1 (POS)
